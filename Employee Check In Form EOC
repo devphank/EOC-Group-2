@@ -123,3 +123,18 @@
 
 </body>
 </html>
+
+git clone https://github.com/YOUR_USERNAME/incident-tracking-form.git
+cd incident-tracking-form
+
+# Add files
+git add .
+git commit -m "Initial commit"
+git push origin main
+
+https://YOUR_USERNAME.github.io/incident-tracking-form/
+
+git add .
+git commit -m "Updated form"
+git push origin main
+
